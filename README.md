@@ -4,7 +4,7 @@ A modern, clean grocery shopping app UI built using Flutter.
 s
 ## 🔥 Preview
 
-![UI Preview](assets/design/Grocery Delivery App.jpg)
+![UI Preview](assets/design/grocery_ui.jpg)
 
 ## 💡 Inspired by
 
